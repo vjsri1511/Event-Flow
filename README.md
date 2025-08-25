@@ -1,47 +1,69 @@
-# Event-Flow
+# Event Flow 🎉
 
-Event Flow – A web application to manage and track events with user authentication and CRUD features.
+Event Flow is a simple event management web app that helps users create, manage, and explore events seamlessly.
 
-## 🚀 Features
-- User Authentication (Sign up / Login / Logout)
-- Create, Read, Update, Delete (CRUD) operations for events
-- Simple and responsive UI
-- Secure password handling
+---
+
+## 🚀 Demo
+
+🔗 **Live Demo:** [Click here to view the app](https://app--event-flow-53cccd23.base44.app/)
+
+---
+
+## 📸 Screenshots
+
+(Add screenshots here if required, or leave blank)
+
+---
+
+## ✨ Features
+
+- Create and manage events  
+- User-friendly interface  
+- Responsive design  
+- Live demo hosted online  
+
+---
 
 ## 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript (React optional)
-- **Backend:** Node.js with Express (or Django/Flask if using Python)
-- **Database:** MySQL / MongoDB
-- **Authentication:** JWT / Session-based
 
-## 📂 Project Setup
+- **Frontend:** HTML, CSS, JavaScript (or React if you used it)  
+- **Backend:** Node.js / Express (if used)  
+- **Database:** MongoDB / Firebase (if applicable)  
+- **Deployment:** Base44 hosting  
 
-1. Clone the repository  
+---
+
+## 📂 Project Structure
+event-flow/
+├── index.html
+├── style.css
+├── script.js
+├── README.md
+
+
+
+---
+
+## ⚡ Installation & Setup
+
+If you want to run the project locally:
+
+1. Clone this repository:
    ```bash
-   git clone https://github.com/vjsri1511/Event-Flow.git
-   cd Event-Flow
-   
-Install dependencies
+   git clone https://github.com/YOUR-USERNAME/Event-Flow.git
 
-npm install
 
-Setup environment variables (create a .env file)
+Open the project folder:
+cd Event-Flow
 
-DB_URI=your_database_connection_string
-JWT_SECRET=your_secret_key
+Run with Live Server (or open index.html directly in your browser).
 
-Run the application
-
-npm start
-
-🤝 Contributing
-
-Contributions are welcome!
-Fork the repo, create a branch, make changes, and open a Pull Request.
 
 📜 License
 
 This project is licensed under the MIT License.
+You are free to use, modify, and distribute this project with attribution.
 
 
 
