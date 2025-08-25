@@ -10,12 +10,6 @@ Event Flow is a simple event management web app that helps users create, manage,
 
 ---
 
-## 📸 Screenshots
-
-(Add screenshots here if required, or leave blank)
-
----
-
 ## ✨ Features
 
 - Create and manage events  
